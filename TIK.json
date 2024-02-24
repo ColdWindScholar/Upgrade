@@ -1,15 +1,15 @@
 {
-    "version": "4.99", 
+    "version": "4.100", 
     "log": "1.修复ContextPatch", 
     "link": {
     	"Windows": {
-    		"AMD64":"https://mirror.ghproxy.com/https://github.com/ColdWindScholar/TIK/releases/download/CI_BUILD_99/TIK-4-99-win.zip", 
+    		"AMD64":"https://mirror.ghproxy.com/https://github.com/ColdWindScholar/TIK/releases/download/CI_BUILD_100/TIK-4-100-win.zip", 
     		"ARM64":"", 
-    		"x86":"https://mirror.ghproxy.com/https://github.com/ColdWindScholar/TIK/releases/download/CI_BUILD_99/TIK-4-99-win.zip"
+    		"x86":"https://mirror.ghproxy.com/https://github.com/ColdWindScholar/TIK/releases/download/CI_BUILD_100/TIK-4-100-win.zip"
     	}, 
     	"Linux": {
     		"aarch64":"", 
-    		"x86_64": "https://mirror.ghproxy.com/https://github.com/ColdWindScholar/TIK/releases/download/CI_BUILD_99/TIK-4-99-linux.zip"
+    		"x86_64": "https://mirror.ghproxy.com/https://github.com/ColdWindScholar/TIK/releases/download/CI_BUILD_100/TIK-4-100-linux.zip"
     	}
     }
 }
