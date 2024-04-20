@@ -1,15 +1,15 @@
 {
-    "version": "4.112", 
-    "log": "1.新增 处理fstab的AVB\n2.新增 处理fstab的DATA加密", 
+    "version": "4.113", 
+    "log": "1.修复 安卓8以下镜像无法打包", 
     "link": {
     	"Windows": {
-    		"AMD64":"https://mirror.ghproxy.com/https://github.com/ColdWindScholar/TIK/releases/download/CI_BUILD_112/TIK-4-112-win.zip", 
+    		"AMD64":"https://mirror.ghproxy.com/https://github.com/ColdWindScholar/TIK/releases/download/CI_BUILD_113/TIK-4-113-win.zip", 
     		"ARM64":"", 
-    		"x86":"https://mirror.ghproxy.com/https://github.com/ColdWindScholar/TIK/releases/download/CI_BUILD_112/TIK-4-112-win.zip"
+    		"x86":"https://mirror.ghproxy.com/https://github.com/ColdWindScholar/TIK/releases/download/CI_BUILD_113/TIK-4-113-win.zip"
     	}, 
     	"Linux": {
     		"aarch64":"", 
-    		"x86_64": "https://mirror.ghproxy.com/https://github.com/ColdWindScholar/TIK/releases/download/CI_BUILD_112/TIK-4-112-linux.zip"
+    		"x86_64": "https://mirror.ghproxy.com/https://github.com/ColdWindScholar/TIK/releases/download/CI_BUILD_113/TIK-4-113-linux.zip"
     	}
     }
 }
